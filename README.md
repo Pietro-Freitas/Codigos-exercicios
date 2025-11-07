@@ -1,2 +1,2 @@
-# Codigos-exercicios
-Minhas soluções de exercícios realizados 
+# Exercícios Feitos
+Minhas soluções de alguns códigos que eu realizei
